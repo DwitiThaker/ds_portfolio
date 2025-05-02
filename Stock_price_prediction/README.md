@@ -1,7 +1,7 @@
 # Stock Price Prediction using Linear Regression and LSTM
 
-This project by This project by [Dwiti Thaker](https://github.com/DwitiThaker/stock_price_prediction/blob/main/Stock_price_prediction.ipynb) demonstrates a comparative analysis...
- demonstrates a comparative analysis of two modeling techniques—**Linear Regression** and **Long Short-Term Memory (LSTM)**—for forecasting stock prices based on historical trends and technical indicators.
+This project by [Dwiti Thaker](https://github.com/DwitiThaker/stock_price_prediction/blob/main/Stock_price_prediction.ipynb) demonstrates a comparative analysis...
+demonstrates a comparative analysis of two modeling techniques—**Linear Regression** and **Long Short-Term Memory (LSTM)**—for forecasting stock prices based on historical trends and technical indicators.
 
 ## Project Overview
 

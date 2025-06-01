@@ -5,6 +5,12 @@ This project uses [Facebook Prophet](https://facebook.github.io/prophet/) to for
 
 ---
 
+## 🌐 Live Demo
+
+🎯 Try the app here: [Click to Open Live Streamlit App](https://prophetstockapp.streamlit.app/)
+
+---
+
 ## 🔥 Project Overview
 
 - Load stock market historical data
@@ -24,6 +30,7 @@ This project uses [Facebook Prophet](https://facebook.github.io/prophet/) to for
 - Pandas
 - Matplotlib
 - NumPy
+- Streamlit
 
 ---
 
